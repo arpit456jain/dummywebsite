@@ -17,7 +17,6 @@ html{
 #navbar{
     display: flex;
     align-items: center;
-    position: sticky;
     top: 0px;
 }
 
@@ -185,7 +184,8 @@ html{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-bottom: 34px;
+    padding-bottom: 34px;'
+    margin : 0 auto;
 }
 #contact-box input, 
 #contact-box textarea{
